@@ -7,4 +7,5 @@
 - 📫 How to reach me: Feel free to reach out via email or LinkedIn
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: My first Masters degree is in Forensic Psychology
--->
+
+[![KMinde's github stats](https://github-readme-stats.vercel.app/api?username=kminde&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
